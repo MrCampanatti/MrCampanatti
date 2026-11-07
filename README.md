@@ -2,8 +2,6 @@
 
  <div>
    <a href="https://github.com/MrCampanatti">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrCampanatti&show_icons=true&theme=midnight-purple&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCampanatti&layout=compact&langs_count=6&theme=midnight-purple"/>
 
 </div>
 <div style="display: inline_block"><br>
