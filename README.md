@@ -1,9 +1,14 @@
 ### Hello There 👋🤘
 
- <div>
-   <a href="https://github.com/MrCampanatti">
-
+<div>
+  <a href="https://github.com/MrCampanatti">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrCampanatti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Linguagens%20mais%20usadas"
+      alt="Linguagens mais usadas por MrCampanatti"
+    />
+  </a>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="PowerBI" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-BI.svg">
   <img align="center" alt="PowerAutomate" height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/2bf1c982fb24528eee1559a96a25eb534c175cfd/SVG/Power-Automate-Colored.svg">
