@@ -3,7 +3,7 @@
 <div>
   <a href="https://github.com/MrCampanatti">
     <img
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrCampanatti&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&custom_title=Linguagens%20mais%20usadas"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=MrCampanatti&layout=compact&langs_count=12&theme=dark&hide_border=true&custom_title=Linguagens%20mais%20usadas"
       alt="Linguagens mais usadas por MrCampanatti"
     />
   </a>
